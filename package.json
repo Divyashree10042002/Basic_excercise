@@ -1,0 +1,20 @@
+{
+  "name": "practice_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Divyashree10042002@github.com/Divyashree10042002/Basic_excercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyashree10042002/Basic_excercise/issues"
+  },
+  "homepage": "https://github.com/Divyashree10042002/Basic_excercise#readme",
+  "description": ""
+}
